@@ -1,5 +1,5 @@
 
-# EX09-Implementation of SVM For Spam Mail Detection
+# EX08-Implementation of SVM For Spam Mail Detection
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
